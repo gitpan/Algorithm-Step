@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name: Algorithm-Step
-version: 0.01
+version: 0.02
 author:
   - Chaoji Li <lichaoji@gmail.com>
 abstract: Trace execution steps of an algorithm

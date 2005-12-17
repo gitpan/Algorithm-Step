@@ -1,6 +1,9 @@
 #!/usr/bin/perl
-#use warnings;
-#use strict;
+# vim:set filetype=perl:
+
+use warnings;
+use strict;
+
 use Test::More tests => 2;
 
 BEGIN {
